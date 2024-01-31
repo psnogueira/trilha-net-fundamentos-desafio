@@ -31,7 +31,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 1. Cadastrar veículo
 2. Remover veículo
 3. Listar veículos
-4. Encerrar
+4. Encerrar.
 
 
 ## Solução
